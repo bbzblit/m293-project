@@ -24,4 +24,4 @@ jobs:
       uses: docker/build-push-action@v3
       with:
         push: true
-        tags: bbzblit/m293-project/m293-project:latest
+        tags: ghcr.io/bbzblit/m293-project/m293-project:latest
